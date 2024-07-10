@@ -114,7 +114,11 @@ git merge feature
 
 - Jika terjadi conflict pada saat merge, Perbaiki CONFLICT lalu git add + commit
 
-
-
+- Jika ingin kembali ke commit tertentu lakukan ini: 
+```
+git checkout 7digit-commit 
+git branch namabrach
+git checkout namabrach
+```
 
 
