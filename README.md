@@ -10,6 +10,7 @@
 
 <p>
  Referensi: Youtube Sandhika - Galih
+   <a href="https://git-scm.com/book/en/v2"> Klik link untuk akses Ebook</a> 
 </p>
 
 
