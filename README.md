@@ -92,7 +92,7 @@ git branch namabranch
 git branch -d namabranch //delete
 ```
 
-<h4 font="bold">Alias</h4>
+<h4 font="bold">Alias hanya untuk 1 sesi</h4>
 
 ```
 alias namaalias="command yang ingin dibuat alias"
