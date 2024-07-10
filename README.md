@@ -20,8 +20,11 @@ Version Control System:
 Sistem yang menyimpan & mengelola rekaman perubhan dari source code
 
 Istilah Git:
-* Repo : Folder Project
-* Commit : Rekaman perubahan dari
+* repository : Folder Project
+* commit : Rekaman perubahan dari
+```
+git commit -m 'Pesan commit'
+```
 * Hash : Penanda unik pada sebuah commit
 * checkout : berpindah ke sebuah commit
 * branch : cabang bebas dari sebuah commit
