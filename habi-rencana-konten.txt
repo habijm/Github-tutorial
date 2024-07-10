@@ -1,0 +1,6 @@
+RENCANA KONTEN
+
+- Javascript
+ * ES6
+- PHP
+- INTERVIEW
