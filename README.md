@@ -31,8 +31,8 @@ Istilah Git:
 * push : mengirimkan commit ke repo
 * pull : mengambil commit dari repo
 
-> **Note**
-> Referensi: https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
+> **Referensi**
+> https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
 
 
 
