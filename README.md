@@ -98,9 +98,10 @@ git config
 ```
 
 <h4 font="bold">Membuat branch baru</h4>
+Tambahkan -d untuk delete
 
 ```
-git branch
+git branch namabranch
 ```
 
 <h4 font="bold">Bantuan mengenai suatu perintah</h4>
@@ -109,7 +110,9 @@ git branch
 git help
 ```
 
-## 4. 
+## 4. Tips
+
+- Dalam Membuat suatu project disarankan untuk membuat BRANCH baru untuk suatu fitur, lalu lakukan MERGE ke branch utama
 
 
 
