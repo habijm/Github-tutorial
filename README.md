@@ -73,6 +73,7 @@ git commit -am 'Pesan Perubahan' // add + commit
 
 ```
 git log -3
+git log --all --decorate --oneline --graph //log dengan graphic
 ```
 
 <h4 font="bold">Kembali ke keadaan tertentu / Mengembalikan file yang telah dihapus di commit tertentu</h4>
@@ -93,6 +94,12 @@ git config
 ```
 git branch namabranch
 git branch -d namabranch //delete
+```
+
+<h4 font="bold">Alias</h4>
+
+```
+alias namaalias="command yang ingin dibuat alias"
 ```
 
 <h4 font="bold">Bantuan mengenai suatu perintah</h4>
