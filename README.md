@@ -21,12 +21,12 @@ Sistem yang menyimpan & mengelola rekaman perubhan dari source code
 
 Istilah Git:
 * repository : Folder Project
-* commit : Rekaman perubahan dari
+* commit : Pesan rekaman perubahan dari
 ```
 git commit -m 'Pesan commit'
 ```
 * Hash : Penanda unik pada sebuah commit
-* checkout : berpindah ke sebuah commit
+* checkout : Berpindah ke sebuah commit
 * branch : cabang bebas dari sebuah commit
 * merge : menggabungkan branch
 * remote : sumber yang memiliki repo
