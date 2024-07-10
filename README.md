@@ -43,7 +43,7 @@ Menduplikat Repository seseorang beserta semua history tanpa menggangu repositor
 ## 3. Git Command
 
 
-<h4 font="bold">Menginisialisasikan repository git</h4>
+<h4 font="bold" color="red" >Menginisialisasikan repository git</h4>
 
 ```
 git init
