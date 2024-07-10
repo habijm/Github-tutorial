@@ -2,6 +2,9 @@ RENCANA KONTEN
 
 - Javascript
  * ES6
+ * React
 - PHP
+ 'Laravel'
 - INTERVIEW
 - Fundamental Struktur Data
+- Phyton
