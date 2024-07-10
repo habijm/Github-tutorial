@@ -40,7 +40,7 @@ git commit -m 'Pesan commit'
 ## 2. Forking?
 
 Menduplikat Repository seseorang beserta semua history tanpa menggangu repository aslinya namun ditambahkan credits.
-Fork != Clone
+- Fork != Clone
 
 
 
