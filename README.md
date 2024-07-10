@@ -61,7 +61,7 @@ git status
 
 ```
 git commit -m 'Pesan Perubahan'
-git commit -am 'Pesan Perubahan' // add + commit
+git commit -am 'Pesan Perubahan' // add + commit ke file modified
 ```
 
 
