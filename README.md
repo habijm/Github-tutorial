@@ -3,10 +3,6 @@
   Belajar Github/Version Control System
 </h1>
 
-<p align="center">
-  <a href="#apa-itu-git">Apa itu Git?</a> 
-  • <a href="#forking">Forking</a> 
-</p>
 
 <p>
  Referensi: Youtube Sandhika - Galih
