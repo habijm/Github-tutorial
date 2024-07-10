@@ -67,6 +67,12 @@ git status
 git commit -m 'Pesan Perubahan'
 ```
 
+<h4 font="bold">Git add + Git commit</h4>
+
+```
+git commit -am 'Pesan Perubahan'
+```
+
 <h4 font="bold">Melihat history commit</h4>
 
 ```
