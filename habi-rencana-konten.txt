@@ -4,3 +4,4 @@ RENCANA KONTEN
  * ES6
 - PHP
 - INTERVIEW
+- Fundamental Struktur Data
