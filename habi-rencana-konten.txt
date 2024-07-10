@@ -3,5 +3,6 @@ RENCANA KONTEN
 - Javascript
  * ES6
 - PHP
+ * Laravel
 - INTERVIEW
-- Fundamental Struktur Data
+
