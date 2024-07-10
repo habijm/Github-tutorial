@@ -67,7 +67,7 @@ git status
 git commit -m 'Pesan Perubahan'
 ```
 
-<h4 font="bold">Kembali ke keadaan tertentu</h4>
+<h4 font="bold">Kembali ke keadaan tertentu / Mengembalikan file yang telah dihapus di commit tertentu</h4>
 
 ```
 git checkout 5digit-commit  -- nama file
