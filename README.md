@@ -75,15 +75,10 @@ git commit -am 'Pesan Perubahan' // add + commit
 git log -3
 ```
 
-<h4 font="bold">Pindah ke branch tertentu</h4>
-
-```
-git checkout namabranch
-```
-
 <h4 font="bold">Kembali ke keadaan tertentu / Mengembalikan file yang telah dihapus di commit tertentu</h4>
 
 ```
+git checkout namabranch //Pindah ke branch tertentu
 git checkout 5digit-commit  -- namafile
 ```
 
