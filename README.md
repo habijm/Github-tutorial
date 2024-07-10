@@ -52,7 +52,7 @@ git init
 <h4 font="bold">Menambahkan file di stagging area</h4>
 
 ```
-git add
+git add <nama file> or git add .
 ```
 
 <h4 font="bold">Melihat status perubahan didalamm repository</h4>
@@ -64,7 +64,7 @@ git status
 <h4 font="bold">Memberikan pesan perubahan</h4>
 
 ```
-git commit 
+git commit -m 'Pesan Perubahan'
 ```
 
 <h4 font="bold">Memasukkan configurasi kedalam git</h4>
