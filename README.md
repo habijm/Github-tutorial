@@ -49,36 +49,42 @@ Menduplikat Repository seseorang beserta semua history tanpa menggangu repositor
 git init
 ```
 
+<h4 font="bold">Menambahkan file di stagging area</h4>
 
 ```
 git add
 ```
-Menambahkan file di stagging area
+
+<h4 font="bold">Melihat status perubahan didalamm repository</h4>
 
 ```
 git status
 ```
-Melihat status perubahan didalamm repository
+
+<h4 font="bold">Memberikan pesan perubahan</h4>
 
 ```
 git commit 
 ```
-Memberikan pesan perubahan
+
+<h4 font="bold">Memasukkan configurasi kedalam git</h4>
 
 ```
 git config
 ```
-Memasukkan configurasi kedalam git
+
+<h4 font="bold">Membuat branch baru</h4>
 
 ```
 git branch
 ```
-Membuat branch baru
+
+<h4 font="bold">Bantuan mengenai suatu perintah</h4>
 
 ```
 git help
 ```
-Bantuan mengenai suatu perintah
+
 
 
 
