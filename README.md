@@ -112,6 +112,8 @@ git checkout master/main
 git merge feature
 ```
 
+- Jika terjadi conflict pada saat merge, Perbaiki CONFLICT lalu git add + commit
+
 
 
 
