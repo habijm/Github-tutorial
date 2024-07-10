@@ -67,6 +67,12 @@ git status
 git commit -m 'Pesan Perubahan'
 ```
 
+<h4 font="bold">Melihat history commit</h4>
+
+```
+git log -3
+```
+
 <h4 font="bold">Kembali ke keadaan tertentu / Mengembalikan file yang telah dihapus di commit tertentu</h4>
 
 ```
