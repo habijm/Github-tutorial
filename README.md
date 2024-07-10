@@ -22,10 +22,7 @@ Sistem yang menyimpan & mengelola rekaman perubhan dari source code
 
 Istilah Git:
 * repository : Folder Project
-* commit : Pesan rekaman perubahan dari
-```
-git commit -m 'Pesan commit'
-```
+* commit : Pesan rekaman perubahan
 * Hash : Penanda unik pada sebuah commit
 * checkout : Berpindah ke sebuah commit
 * branch : cabang bebas dari sebuah commit
@@ -42,6 +39,45 @@ git commit -m 'Pesan commit'
 
 Menduplikat Repository seseorang beserta semua history tanpa menggangu repository aslinya namun ditambahkan credits.
 - Fork != Clone
+
+## 3. Git Command
+
+```
+git init
+```
+Menginisialisasikan repository git
+
+```
+git add
+```
+Menambahkan file di stagging area
+
+```
+git status
+```
+Melihat status perubahan didalamm repository
+
+```
+git commit 
+```
+Memberikan pesan perubahan
+
+```
+git config
+```
+Memasukkan configurasi kedalam git
+
+```
+git branch
+```
+Membuat branch baru
+
+```
+git help
+```
+Bantuan mengenai suatu perintah
+
+
 
 
 
