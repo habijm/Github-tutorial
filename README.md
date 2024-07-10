@@ -65,13 +65,9 @@ git status
 
 ```
 git commit -m 'Pesan Perubahan'
+git commit -am 'Pesan Perubahan' // add + commit
 ```
 
-<h4 font="bold">Git add + Git commit</h4>
-
-```
-git commit -am 'Pesan Perubahan'
-```
 
 <h4 font="bold">Melihat history commit</h4>
 
@@ -88,7 +84,7 @@ git checkout namabranch
 <h4 font="bold">Kembali ke keadaan tertentu / Mengembalikan file yang telah dihapus di commit tertentu</h4>
 
 ```
-git checkout 5digit-commit  -- nama file
+git checkout 5digit-commit  -- namafile
 ```
 
 <h4 font="bold">Memasukkan configurasi kedalam git</h4>
@@ -98,10 +94,10 @@ git config
 ```
 
 <h4 font="bold">Membuat branch baru</h4>
-Tambahkan -d untuk delete
 
 ```
 git branch namabranch
+git branch -d namabranch //delete
 ```
 
 <h4 font="bold">Bantuan mengenai suatu perintah</h4>
@@ -113,7 +109,10 @@ git help
 ## 4. Tips
 
 - Dalam Membuat suatu project disarankan untuk membuat BRANCH baru untuk suatu fitur, lalu lakukan MERGE ke branch utama
-
+```
+git checkout master/main
+git merge feature
+```
 
 
 
