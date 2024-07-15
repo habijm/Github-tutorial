@@ -7,8 +7,8 @@
 <p>
  Referensi: Youtube Sandhika - Galih
 </p>
-* <a href="https://git-scm.com/book/en/v2"> Klik link untuk akses Ebook</a> 
-* <a href="https://cs.fyi/guide/git-cheatsheet">Cheatseet</a> 
+* Ebook <a target="_blank" href="https://git-scm.com/book/en/v2">link</a> 
+* Kumpulan command git / Cheatseet <a target="_blank" href="https://cs.fyi/guide/git-cheatsheet">link</a> 
 
 
 
