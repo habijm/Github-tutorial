@@ -113,6 +113,8 @@ git help
 
 
 ## 4. Github Pages
+Deploy Website Static
+
 Syarat Nama Repo
 ```
 habijm.github.io
