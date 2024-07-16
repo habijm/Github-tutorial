@@ -99,13 +99,24 @@ git branch -d namabranch //delete
 alias namaalias="command yang ingin dibuat alias"
 ```
 
+<h4 font="bold">Cek Commit yang ada di repo udah sampai mana</h4>
+
+```
+git fetch
+```
+
 <h4 font="bold">Bantuan mengenai suatu perintah</h4>
 
 ```
 git help
 ```
 
-## 4. Tips
+
+## 4. Github Pages
+
+
+
+## 5. Tips
 
 - Dalam Membuat suatu project disarankan untuk membuat BRANCH baru untuk suatu fitur, lalu lakukan MERGE ke branch utama
 ```
