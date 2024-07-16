@@ -138,4 +138,10 @@ git branch namabrach
 git checkout namabrach
 ```
 
+- git rebase adalah perintah di Git yang digunakan untuk menerapkan serangkaian commit dari satu branch ke branch lain. Berbeda dengan git merge yang menggabungkan dua branch dengan menciptakan commit merge, git rebase memindahkan atau "memutar ulang" commit dari satu branch ke atas commit lain, menghasilkan riwayat yang lebih linier dan bersih.
+```
+git rebase
+```
+
+
 
