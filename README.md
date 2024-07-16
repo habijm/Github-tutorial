@@ -113,7 +113,10 @@ git help
 
 
 ## 4. Github Pages
-
+Syarat Nama Repo
+```
+habijm.github.io
+```
 
 
 ## 5. Tips
